@@ -43,3 +43,6 @@ dependencies[] = token
 dependencies[] = entity_token
 dependencies[] = auto_nodetitle
 dependencies[] = nodeformsettings
+dependencies[] = staff_tracker_views
+dependencies[] = staff_tracker_content_types
+dependencies[] = staff_demo_migration
