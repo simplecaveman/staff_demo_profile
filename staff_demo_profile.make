@@ -61,7 +61,7 @@ projects[rules][subdir] = "contrib/"
 
 projects[staff_demo_module][type] = "module"
 projects[staff_demo_module][download][type] = "git"
-projects[staff_demo_module][download][url] = "git@github.com:simplecaveman/staff_demo_module.git"
+projects[staff_demo_module][download][url] = "github:simplecaveman/staff_demo_module.git"
 projects[staff_demo_module][subdir] = "custom/"
 
 
